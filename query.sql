@@ -1,6 +1,6 @@
-3. Orders Query
+/* 3. Orders Query
 Company X has a record of its customers and their orders. Find the customer(s) with the highest order price for orders placed within 10 years of the first order (earliest order_date) in the database. 
-Print the customer name and order price. If multiple records are returned, they can be in any order.
+Print the customer name and order price. If multiple records are returned, they can be in any order. */
 
 SELECT
   C.NAME,
